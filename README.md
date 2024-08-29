@@ -3,7 +3,7 @@ Este é um app simulando a interface de um cartão de crédito, mostrando a fren
 
 
 ## Como usar
-1- Faça clone do projeto
-2- Faça npm install
-3- Npm expo start
-$- Abra o projeto no Expo go
+1. Faça clone do projeto
+2. Faça npm install
+3. Npm expo start
+4. Abra o projeto no Expo go
